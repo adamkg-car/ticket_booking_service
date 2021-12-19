@@ -1,8 +1,15 @@
 target/
+null/
+project/
+.bloop/
+.bsp/
+.metals/
+.vscode/
 
 .settings
 .project
 .classpath
+
 
 .idea
 *.iml
